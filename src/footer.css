@@ -1,0 +1,25 @@
+.footer{
+    display:flex;
+    justify-content: space-evenly;
+    width:100%;
+}
+.footer i{
+    
+    
+    padding:10px;
+    
+}
+.footer a{
+    text-decoration: none;
+    background-color: grey;
+    padding:10px;
+    border-radius: 5px;
+    width:20px;
+    text-align: center;
+    color: rgb(29, 29, 32);
+}
+/*on hoover*/
+.footer a:hover{
+    color:rgb(112, 112, 237);
+    background-color: #fff;
+}
